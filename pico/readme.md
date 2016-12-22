@@ -1,3 +1,10 @@
+More info here:
+
+http://www.40percent.club/2016/12/pico.html
+
+http://www.40percent.club/2016/12/two-keys.html
+
+
 EasyEDA ordering info:
 
 ![pico PCB Front](pcb-front.png)
