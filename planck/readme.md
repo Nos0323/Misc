@@ -1,6 +1,8 @@
 ![planck plate](PlanckPCBTop.png)
 ![planck bottom](PlanckPCBBottom.png)
 
+Using these plates with a Planck PCB requires grinding nothes into the PCB for the standoffs to fit. See http://www.40percent.club/2017/02/pcb-plate-planck.html
+
 EasyEDA ordering info:
 
 Top/Bottom same size
