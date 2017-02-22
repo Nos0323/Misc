@@ -1,3 +1,6 @@
+![planck plate](PlanckPCBTop.png)
+![planck bottom](PlanckPCBBottom.png)
+
 EasyEDA ordering info:
 
 Top/Bottom same size
